@@ -1,5 +1,4 @@
 # **Yo.tube HD Downloader**
-## **Video Demo:** https://youtu.be/eEPajF7il9M
 ## **Description:**
 ### YouTube is very popular video sharing website. Downloading a video from YouTube is a tough job. Downloading the Downloader and get the video using that or go to any other website which fetches the video and saves on your computer.
 ### For this project pip- install packages of sys, re and pytube.
